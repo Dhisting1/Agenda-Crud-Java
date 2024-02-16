@@ -1,2 +1,20 @@
-Trabalho para matéria POO ministrado pelo professor Dario 
-Criado por: Lucas Fernando e Pablo Miranda
+CRUD-POO
+Projeto CRUD matéria Programação Orientada a Objetos
+
+Desenvolvimento de um projeto simples CRUD (PESSOAS) utilizando o acesso a banco de dados como MySQL e linguagem Java.
+
+Assuntos Abordados no Desenvolvimento do Projeto:
+Acesso a banco de dados com o MySql;
+Otimização da conexão com o banco de dados;
+O código deve conter os conceitos de objeto visto na sala de aula:
+Interface.
+Classe abstrata.
+Herança.
+Polimorfismo.
+Encapsulamento.
+Métodos ou atributos estáticos.
+Tratamento de exceção;
+ListaArray;
+Desenvolvedores:
+Lucas Fernando
+Pablo Costa
