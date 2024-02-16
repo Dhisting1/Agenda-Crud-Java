@@ -6,6 +6,7 @@ Desenvolvimento de um projeto simples CRUD (PESSOAS) utilizando o acesso a banco
 Assuntos Abordados no Desenvolvimento do Projeto:
 Acesso a banco de dados com o MySql;
 Otimização da conexão com o banco de dados;
+
 O código deve conter os conceitos de objeto visto na sala de aula:
 Interface.
 Classe abstrata.
@@ -15,6 +16,7 @@ Encapsulamento.
 Métodos ou atributos estáticos.
 Tratamento de exceção;
 ListaArray;
+
 Desenvolvedores:
 Lucas Fernando
 Pablo Costa
